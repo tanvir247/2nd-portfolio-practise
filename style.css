@@ -1,0 +1,107 @@
+body{
+
+    font-family: 'Source Sans Pro', sans-serif;
+}
+section{
+
+}
+h1{
+
+}
+p{
+ font-size: x-small;
+ color: darkgray;
+}
+h3{
+
+}
+.introducing-part{
+    height: 500px;
+    width: 100%;
+    background-image: url("images/header-bg.png");
+
+}
+.half-width{
+    width: 40%;
+    margin: 4%;
+    float: left;
+    height: 100%;
+}
+.half-width img{
+    width: 100%;
+}
+
+.button-color{
+    text-decoration: none;
+    color: white;
+    background-color: hotpink;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.biography{
+    height: 600px;
+    width: 100%;
+    background-image: url("images/biography-bg.png");
+
+}
+.biography .half-width img{
+    width: 85%;
+}
+.biography .half-width h1{
+    margin-top: 100px;
+}
+.latest-work{
+    height: 600px;
+    width: 100%;
+    background-image: url("images/latest-work-bg.png");
+}
+
+.latest-work h1{
+    text-align: center;
+}
+
+.lalest-work-sample{
+    width: 25%;
+    float: left;
+    margin-left: 6%;
+}
+.lalest-work-sample img{
+    width: 100%;
+}
+.semi-footer{
+    background-image: url("images/footer-bg.png");
+    
+    margin-bottom: 100px;
+}
+
+.txt-align-center{
+    text-align: center;
+}
+
+.contact-part{
+    width: 40%;
+    margin:auto;
+    
+    background-color: hotpink;
+    padding: 20px 50px;
+    border-radius: 5px;
+}
+.contact-part h1{
+    margin-top: 0%;
+    color: white;
+}
+.contact-part p{
+    font-size: small;
+    color: white;
+
+}
+
+.p-width{
+    width: 30%;
+    margin: auto;
+    padding-bottom: 5%;
+    font-size: large;
+}
+.h4-width{
+    margin-bottom: 0%;
+}
